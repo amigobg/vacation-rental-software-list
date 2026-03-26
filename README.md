@@ -1,4 +1,4 @@
-## Vacation Rental Software / PMS list with API Availability
+## Vacation Rental Software (PMS) list with API Availability
 
 A curated list of popular vacation rental property management systems (PMS).  
 These tools help manage listings, bookings, guest communication, and channel distribution (Airbnb, Booking.com, Vrbo, etc.).  
@@ -6,45 +6,33 @@ API availability is important for automation, integrations, and custom developme
 
 ---
 
-- **Roomspilot** — All-in-one vacation rental PMS with automation tools — API: Yes 
-  https://roomspilot.com/
+- [Roomspilot](https://roomspilot.com/) - All-in-one vacation rental PMS with automation tools - API: Yes
 
-- **Guesty** — Enterprise-grade PMS for scaling rental businesses — API: Yes  
-  https://www.guesty.com/
+- [Guesty](https://www.guesty.com/) - Enterprise-grade PMS for scaling rental businesses - API: Yes
 
-- **Hostaway** — Full-featured PMS with strong channel management — API: Yes  
-  https://www.hostaway.com/
+- [Hostaway](https://www.hostaway.com/) - Full-featured PMS with strong channel management - API: Yes
 
-- **Lodgify** — Website builder + PMS for small to mid hosts — API: Yes  
-  https://www.lodgify.com/
+- [Lodgify](https://www.lodgify.com/) - Website builder + PMS for small to mid hosts - API: Yes
 
-- **Smoobu** — Simple PMS focused on European hosts — API: Yes  
-  https://www.smoobu.com/
+- [Smoobu](https://www.smoobu.com/) - Simple PMS focused on European hosts - API: Yes
 
-- **Hostfully** — PMS with digital guidebooks and integrations — API: Yes  
-  https://www.hostfully.com/
+- [Hostfully](https://www.hostfully.com/) - PMS with digital guidebooks and integrations - API: Yes
 
-- **Hospitable** — Automation-focused tool for small hosts — API: Limited / not public  
-  https://www.hospitable.com/
+- [Hospitable](https://www.hospitable.com/) - Automation-focused tool for small hosts - API: Limited / not public
 
-- **Tokeet** — Budget-friendly PMS with basic automation — API: Yes  
-  https://www.tokeet.com/
+- [Tokeet](https://www.tokeet.com/) - Budget-friendly PMS with basic automation - API: Yes
 
-- **iGMS** — Airbnb-focused automation and messaging tool — API: Yes  
-  https://www.igms.com/
+- [iGMS](https://www.igms.com/) - Airbnb-focused automation and messaging tool - API: Yes
 
-- **Avantio** — Enterprise PMS for professional managers — API: Yes  
-  https://www.avantio.com/
+- [Avantio](https://www.avantio.com/) - Enterprise PMS for professional managers - API: Yes
 
-- **Beds24** — Flexible PMS with strong customization — API: Yes  
-  https://www.beds24.com/
+- [Beds24](https://www.beds24.com/) - Flexible PMS with strong customization - API: Yes
 
-- **Uplisting** — Channel manager + PMS for growing teams — API: Limited / partner-based  
-  https://www.uplisting.io/
+- [Uplisting](https://www.uplisting.io/) - Channel manager + PMS for growing teams - API: Limited / partner-based
 
 ---
 
 ### Notes
-- “API: Yes” typically means a public or partner-accessible API for integrations.
-- “Limited” indicates restricted or partner-only access.
-- Availability and scope of APIs may vary depending on plan or approval.
+- "API: Yes" typically means a public or partner-accessible API.
+- "Limited" indicates restricted or partner-only access.
+- API access may depend on plan or approval.
