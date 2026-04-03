@@ -10,17 +10,17 @@ API availability is important for automation, integrations, and custom developme
 
 - [Guesty](https://www.guesty.com/) - Enterprise-grade PMS for scaling rental businesses - API: Yes
 
-- [Hostaway](https://www.hostaway.com/) - Full-featured PMS with strong channel management - API: Yes
+- Hostaway - Full-featured PMS with strong channel management - API: Yes
 
-- [Lodgify](https://www.lodgify.com/) - Website builder + PMS for small to mid hosts - API: Yes
+- Lodgify - Website builder + PMS for small to mid hosts - API: Yes
 
-- [Smoobu](https://www.smoobu.com/) - Simple PMS focused on European hosts - API: Yes
+- Smoobu - Simple PMS focused on European hosts - API: Yes
 
-- [Hostfully](https://www.hostfully.com/) - PMS with digital guidebooks and integrations - API: Yes
+- Hostfully - PMS with digital guidebooks and integrations - API: Yes
 
-- [Hospitable](https://www.hospitable.com/) - Automation-focused tool for small hosts - API: Limited / not public
+- Hospitable - Automation-focused tool for small hosts - API: Limited / not public
 
-- [Tokeet](https://www.tokeet.com/) - Budget-friendly PMS with basic automation - API: Yes
+- Tokeet - Budget-friendly PMS with basic automation - API: Yes
 
 - [iGMS](https://www.igms.com/) - Airbnb-focused automation and messaging tool - API: Yes
 
@@ -28,7 +28,7 @@ API availability is important for automation, integrations, and custom developme
 
 - [Beds24](https://www.beds24.com/) - Flexible PMS with strong customization - API: Yes
 
-- [Uplisting](https://www.uplisting.io/) - Channel manager + PMS for growing teams - API: Limited / partner-based
+- Uplisting - Channel manager + PMS for growing teams - API: Limited / partner-based
 
 ---
 
